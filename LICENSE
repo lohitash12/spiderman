@@ -2,6 +2,17 @@ MIT License
 
 Copyright (c) 2025 lohitash12
 
+the assets are sourced from:
+art:
+  https://pixelfrog-assets.itch.io/pixel-adventure-1
+sound effects:
+  https://pixabay.com/sound-effects/search/game%20collect/
+  https://pixabay.com/sound-effects/search/death%20video%20game%20/
+  https://pixabay.com/sound-effects/search/jump/
+modules used:
+  pygame
+  math
+  sys
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
